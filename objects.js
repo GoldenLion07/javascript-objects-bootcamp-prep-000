@@ -1,3 +1,8 @@
+var artistName = {
+  artistName1: "Slowdive",
+  artistName2: "My Bloody Valentine",
+  artistName3: "Phil Ochs"
+}
 var playlist = {
   Slowdive: "Alison",
   MyBloodyValentine: "Sometimes",
