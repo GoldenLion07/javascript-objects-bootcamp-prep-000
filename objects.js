@@ -13,4 +13,3 @@ function removeFromPlaylist(playlist, artistName) {
   return playlist;
 }
 
-removeFromPlaylist(playlist, "MyBloodyValentine");
