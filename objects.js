@@ -1,6 +1,6 @@
 var playlist = {
-  Phil Ochs: 'Slowdive',
-  My Bloody Valentine: 'My Bloody Valentine',
+  PhilOchs: 'Slowdive',
+  MyBloodyValentine: 'My Bloody Valentine',
   Alison: 'Phil Ochs'
 }
 
