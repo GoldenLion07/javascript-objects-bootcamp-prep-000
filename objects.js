@@ -5,8 +5,8 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
-  return playlist[artistName] = "Phil Ochs";
-  return playlist[songTitle] = "Here's to the State of Mississippi"
+  return playlist[artistName, songTitle] = "Phil Ochs";
+  
 }
 
 function removeFromPlaylist(playlist, artistName) {
