@@ -1,6 +1,6 @@
 var playlist = {
   Slowdive: "Alison",
-  artist2: "My Bloody Valentine",
+  artist2: "Sometimes",
   artist3: "Here's to the State of Mississippi"
 }
 
